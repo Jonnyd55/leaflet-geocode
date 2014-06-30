@@ -3,7 +3,7 @@ CSV to GeoJSON
 
 This is a script written to turn a spreadsheet of latitude and longitude points into a geojson file for use with the [leaflet.js] [1] javascript mapping library.
 
-The structure of your .csv file is key. You __Must have__ the following two cells in your data:
+The structure of your .csv file is key. You __must have__ the following two cells in your data:
   - Latitude (it __must be__ the first column)
   - Longitude (i __must be__ the second column)
 
