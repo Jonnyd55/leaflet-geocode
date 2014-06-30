@@ -5,7 +5,7 @@ This is a script written to turn a spreadsheet of latitude and longitude points 
 
 The structure of your .csv file is key. You __must have__ the following two cells in your data:
   - Latitude (it __must be__ the first column)
-  - Longitude (i __must be__ the second column)
+  - Longitude (it __must be__ the second column)
 
 The script reads your file, takes your latitude and longitude points, and sets them to the coordinates list that leaflet.js uses to plot your location. 
 
